@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FMOD API crew mod", "FMOD API crew mod\FMOD API crew mod.csproj", "{0C65AF08-268E-4918-BF79-EA3991D7E105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceRuToEnChar", "ReplaceRuToEnChar\ReplaceRuToEnChar.csproj", "{4F0F5910-43B7-4D5C-9260-BB9B85BE0255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C65AF08-268E-4918-BF79-EA3991D7E105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C65AF08-268E-4918-BF79-EA3991D7E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C65AF08-268E-4918-BF79-EA3991D7E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C65AF08-268E-4918-BF79-EA3991D7E105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0F5910-43B7-4D5C-9260-BB9B85BE0255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0F5910-43B7-4D5C-9260-BB9B85BE0255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0F5910-43B7-4D5C-9260-BB9B85BE0255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0F5910-43B7-4D5C-9260-BB9B85BE0255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E631E6-A4B4-424D-9484-05912322ED0A}
+	EndGlobalSection
+EndGlobal
